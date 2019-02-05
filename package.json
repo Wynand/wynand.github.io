@@ -1,8 +1,8 @@
 {
-  "name": "react-gh-pages-template",
+  "name": "Wynand's Github Homepage",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://wynand.github.io/react-gh-pages-template",
+  "homepage": "https://wynand.github.io/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.7.0",
