@@ -5,21 +5,20 @@ import './App.css';
 class App extends Component {
   render() {
     return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            This is the first change on the website.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
+      <div>
+        <header>
+          Wynand's Github Homepage
         </header>
+        <nav>
+          <a href="/recipe-site">Recipe Site</a>
+          <a href="/days-since-david-spilled">Days Since David Spilled</a>
+        </nav>
+        <section>
+          blah blah blah this is a section
+        </section>
+        <footer>
+          Made by Wynand
+        </footer>
       </div>
     );
   }
